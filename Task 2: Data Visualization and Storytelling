@@ -1,0 +1,65 @@
+## ✅ Task 2: Data Visualization and Storytelling
+
+### 🎯 Objective:
+
+To create insightful visualizations from customer data that effectively tell a business story. 
+The goal is to highlight key trends, behaviors, and campaign responses to support marketing and customer segmentation strategies.
+
+---
+
+### 🛠 Tools Used:
+
+* Power BI (main tool for dashboard design)
+* Excel (for data cleanup and calculated columns)
+* DAX (for custom KPIs and measures)
+
+---
+
+### 📁 Dataset:
+
+We used a cleaned version of the **Customer Personality Analysis** dataset, which includes:
+
+* Demographics (Age, Education, Marital Status)
+* Household info (Number of children and teenagers)
+* Spending behavior across product categories
+* Campaign responses and shopping channel usage
+
+---
+
+### 🪜 Steps Completed:
+
+1. Cleaned and prepared the dataset in Excel.
+2. Created new calculated columns:
+
+   * `age`
+   * `total_spend`
+   * `family_size`
+   * `total_campaign_accepted`
+   * `AgeGroup` (custom bins)
+3. Imported cleaned dataset into Power BI.
+4. Created KPI cards: Total Customers, Average Age, Average Spend, and Average Campaign Response.
+5. Built various visuals to compare spending behavior, campaign engagement, and shopping channel preferences.
+6. Used slicers to filter by Education, Marital Status, and AgeGroup.
+7. Added contextual insights with storytelling boxes.
+8. Arranged visuals into a clean, structured dashboard layout.
+
+---
+
+### 📖 Storytelling & Insights:
+
+* Customers aged **30–39** and **60+** are the highest spenders.
+* **Family Size = 0** customers (likely singles or couples with no children) spend more than others.
+* **Higher education** levels are associated with higher spending and better campaign engagement.
+* **Web purchases** dominate for younger customers, while **older customers** prefer stores or catalogs.
+* The **average campaign acceptance** per customer is **only 0.30**, indicating a need for better personalization and targeting.
+
+---
+
+### ✅ Outcome:
+
+This task demonstrates the ability to turn raw customer data into meaningful visual stories.
+The dashboard helps identify customer segments, improve campaign strategy, and choose the right marketing channels.
+
+---
+
+Would you like me to save this as a ready-to-upload `README_Task2.md` file?
